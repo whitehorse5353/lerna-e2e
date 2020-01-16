@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "root",
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  },
+  "dependencies": {
+    "@x/shared": "^1.0.1"
+  }
+}
