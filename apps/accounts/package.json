@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {
-    "@x/auth": "^2.0.0",
+    "@x/auth": "file:../auth",
     "@x/shared": "1.0.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "525f99788f27655f492d978669abb2682b749a72"
 }

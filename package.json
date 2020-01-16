@@ -5,6 +5,9 @@
     "lerna": "^3.19.0"
   },
   "dependencies": {
-    "@x/shared": "^1.0.1"
+    "@x/accounts": "file:apps/accounts",
+    "@x/auth": "file:apps/auth",
+    "@x/payments": "file:apps/payments",
+    "@x/shared": "file:packages/shared"
   }
 }
