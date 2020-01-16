@@ -1,14 +1,14 @@
 {
   "name": "@x/accounts",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {
-    "@x/shared": "1.0.0",
-    "@x/auth": "1.0.0"
+    "@x/auth": "^2.0.0",
+    "@x/shared": "1.0.0"
   },
   "author": "",
   "license": "ISC"
