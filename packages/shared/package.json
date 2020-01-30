@@ -1,6 +1,6 @@
 {
   "name": "@x/shared",
-  "version": "1.0.3",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
