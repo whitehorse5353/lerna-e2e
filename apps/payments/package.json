@@ -1,15 +1,15 @@
 {
   "name": "@x/payments",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {
-    "@x/auth": "2.0.0",
-    "@x/accounts": "2.0.0",
-    "@x/shared": "1.0.2"
+    "@x/accounts": "^2.0.1",
+    "@x/auth": "^2.0.1",
+    "@x/shared": "^1.0.3"
   },
   "author": "",
   "license": "ISC"
