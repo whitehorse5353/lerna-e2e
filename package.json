@@ -5,7 +5,8 @@
     "lerna": "^3.20.2"
   },
   "scripts": {
-    "postinstall": "lerna bootstrap"
+    "postinstall": "lerna bootstrap",
+    "release": "lerna version && lerna publish from-git --yes"
   },
   "dependencies": {}
 }
