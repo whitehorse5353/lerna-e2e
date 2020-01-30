@@ -1,6 +1,6 @@
 {
   "name": "@x/payments",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,9 @@
   "dependencies": {
     "@x/accounts": "^2.0.1",
     "@x/auth": "^2.0.1",
-    "@x/shared": "^1.0.4"
+    "@x/shared": "^1.0.5"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "df955c86910806512311174fb00a23a3b0a70aa5"
 }
