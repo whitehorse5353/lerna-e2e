@@ -3,9 +3,30 @@
     "packages/*",
     "apps/*"
   ],
-  "version": "2.0.0",
-  "npmClient": "yarn",
-  "npmClientArgs": [
-    "--no-lockfile"
-  ]
+  "command": {
+    "bootstrap": {
+      "concurrency": 4,
+      "forceLocal": true
+    },
+    "version": {
+      "forcePublish": "@loopback/cli,@loopback/docs",
+      "conventionalCommits": true,
+      "message": "chore: publish release"
+    },
+    "publish": {
+    },
+    "run": {
+      "prefix": false,
+      "loglevel": "silent",
+      "stream": true,
+      "concurrency": 8,
+      "sort": false
+    },
+    "clean": {
+      "loglevel": "silent",
+      "concurrency": 8,
+      "yes": true
+    }
+  },
+  "version": "independent"
 }

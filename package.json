@@ -1,13 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "name": "root",
   "devDependencies": {
-    "lerna": "^3.19.0"
+    "lerna": "^3.20.2"
   },
-  "dependencies": {
-    "@x/accounts": "file:apps/accounts",
-    "@x/auth": "file:apps/auth",
-    "@x/payments": "file:apps/payments",
-    "@x/shared": "file:packages/shared"
-  }
+  "dependencies": {}
 }

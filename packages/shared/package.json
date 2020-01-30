@@ -1,12 +1,11 @@
 {
   "name": "@x/shared",
-  "version": "3.3.3",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "",
-  "license": "ISC",
-  "gitHead": "525f99788f27655f492d978669abb2682b749a72"
+  "license": "ISC"
 }
