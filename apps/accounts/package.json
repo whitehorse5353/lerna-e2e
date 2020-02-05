@@ -11,5 +11,6 @@
     "@x/shared": "1.0.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "6f138cac2473f89dd5dfc4d63f771f5bbeb6b3db"
 }
