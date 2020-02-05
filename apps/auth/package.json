@@ -9,7 +9,10 @@
   "dependencies": {
     "@x/shared": "1.0.1"
   },
+  "publishConfig": {
+    "registry": "http://ec2-54-173-133-128.compute-1.amazonaws.com:8081/repository/npm-secure/"
+  },
   "author": "",
   "license": "ISC",
-  "gitHead": "6f138cac2473f89dd5dfc4d63f771f5bbeb6b3db"
+  "gitHead": "5842411d219f220fdf7f2d256746e7cc27c10b87"
 }
