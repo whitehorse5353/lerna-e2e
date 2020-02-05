@@ -1,14 +1,14 @@
 {
   "name": "@x/payments",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {
-    "@x/accounts": "^2.0.5",
-    "@x/auth": "^2.0.5",
+    "@x/accounts": "^2.0.6",
+    "@x/auth": "^2.0.6",
     "@x/shared": "^1.0.6"
   },
   "publishConfig": {
