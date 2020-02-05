@@ -8,5 +8,8 @@
     "postinstall": "lerna bootstrap",
     "release": "lerna version && lerna publish from-git --yes"
   },
+  "publishConfig": {
+    "registry": "http://ec2-54-173-133-128.compute-1.amazonaws.com:8081/repository/npm-secure/"
+  },
   "dependencies": {}
 }
