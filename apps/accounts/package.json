@@ -1,13 +1,13 @@
 {
   "name": "@x/accounts",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {
-    "@x/auth": "^2.0.6",
+    "@x/auth": "^2.0.7",
     "@x/shared": "1.0.0"
   },
   "publishConfig": {
@@ -15,5 +15,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "3e696916c4f76b6ea2903c4996c0d31b708216db"
+  "gitHead": "7c023d3d96a18bbd8f5dc74cb626853aa0d849c2"
 }
